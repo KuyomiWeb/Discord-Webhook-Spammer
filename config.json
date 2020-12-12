@@ -1,0 +1,11 @@
+{
+    "token": "TOKEN",
+    "serv": "ID SERVEUR",
+    "webhook": {
+        "name": "NAME",
+        "avatar": "https://cdn.discordapp.com/icons/767104734179622922/a_f769dd66a363eb18b9a62dc6fa9aeeb4.gif",
+        "spamMsg": "Vasco en chien @everyone"
+    },
+    "ChannellMsgCount": "90",
+    "sleepMS": "90"
+}
