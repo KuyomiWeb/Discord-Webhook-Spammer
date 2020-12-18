@@ -14,7 +14,7 @@ Created by KxI
 -**ChannelMsgCount**: the number of messages per channels  
 -**sleepMS**: webhook creation interval in ms  
 
-3 - You can now start and have fun `node index.js `
+3 - You can now start and have fun `node index.js ` or open start.bat
 
 
 #### If you have a problem, check issues.
